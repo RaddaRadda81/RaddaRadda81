@@ -1,5 +1,5 @@
 ## 팀 개발을 위한 Git GitHub 시작하기 개정판
-![badge](httsp://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
+![badge](https://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
 ### Hi there 👋
 
 <!--
